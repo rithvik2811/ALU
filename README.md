@@ -3,7 +3,9 @@
 The ALU performs the following operations:
   1. Addition 
   2. Subtraction
-  3. XOR
-  4. AND
-  5. NOT
-  6. OR 
+  3. Increment 
+  4. Decrement
+  5. XOR
+  6. AND
+  7. NOT
+  8. OR 
